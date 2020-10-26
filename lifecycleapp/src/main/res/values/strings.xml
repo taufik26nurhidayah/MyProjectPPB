@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lifecycle App</string>
+    <string name="change_page">Pindah halaman</string>
+    <string name="textView">Helloworld!!</string>
+</resources>
